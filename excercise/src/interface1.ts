@@ -37,7 +37,7 @@ class Book {
       this.title = title;    
       this.author = author;
     }
-    // Methods getter and setter
+    // here we do getter and setter
     get getTitle(){
      return this.title;
     }

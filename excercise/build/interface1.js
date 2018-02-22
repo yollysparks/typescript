@@ -16,7 +16,7 @@ var Book = /** @class */ (function () {
         this.author = author;
     }
     Object.defineProperty(Book.prototype, "getTitle", {
-        // Methods getter and setter
+        // here we do getter and setter
         get: function () {
             return this.title;
         },
