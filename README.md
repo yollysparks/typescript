@@ -21,3 +21,7 @@ Explain using sufficient code examples the following features in JavaScript.
 
 Hoisting is JavaScript's default behaviour of moving all declarations to the top of the current scope (to the top of the current script or the current function).
 
+•	Provide an number of examples to demonstrate the benefits of using TypeScript, including, types, interfaces, classes and generics
+
+
+
